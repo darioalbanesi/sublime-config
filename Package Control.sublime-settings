@@ -1,0 +1,27 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CSS Format",
+		"CSScomb",
+		"DashDoc",
+		"Djaneiro",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Style Reflector",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"LoremIpsum",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Simple Print Function",
+		"SyncedSideBar",
+		"Theme - Spacegray",
+		"TodoReview",
+		"TrailingSpaces"
+	]
+}
